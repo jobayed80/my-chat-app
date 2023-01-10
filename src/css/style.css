@@ -1,0 +1,23 @@
+
+
+.box{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+.left{
+    margin-top: 80px;
+    margin-left: auto;
+}
+
+.registration-part .MuiFormHelperText-root {
+    color: red;
+    font-size: 12px;
+}
+.registration-part .passErr{
+    color: red;
+    margin-top: 3px;
+    margin-left: 15px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-size: 12px;
+}
